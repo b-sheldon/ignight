@@ -1,6 +1,8 @@
 # ignight
 An immersive and insightful VR stargazing experience.
 
+[YouTube Showcase](https://youtu.be/JBvYWwU9k4k)
+
 #### Ben, Cinay, Oscar, Noel, and Peipei
 
 ## Description 
